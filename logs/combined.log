@@ -1,0 +1,31 @@
+2024-11-27 12:53:25 [[31MERROR[39M]: Database query failed: Invalid object name 'People'.
+2024-11-27 12:55:49 [[31MERROR[39M]: Database query failed: Invalid column name 'people_id'.
+2024-11-27 12:55:53 [[32MINFO[39M]: Email sent successfully
+2024-11-27 12:56:51 [[32MINFO[39M]: Email sent successfully
+2024-11-27 12:57:12 [[32MINFO[39M]: Registered user : pavithiran.nasa@gmail.com
+2024-11-27 12:57:13 [[31MERROR[39M]: Error registering user: Invalid column name 'reg_date'.
+2024-11-27 12:57:13 [[31MERROR[39M]: Error in /register: Invalid column name 'reg_date'.
+2024-11-27 13:00:06 [[32MINFO[39M]: Registered user : pavithiran.nasa@gmail.com
+2024-11-27 13:01:19 [[31MERROR[39M]: Error fetching user by email: Invalid column name 'people_id'.
+2024-11-27 13:01:19 [[31MERROR[39M]: Error in /login: Invalid column name 'people_id'.
+2024-11-27 13:02:13 [[31MERROR[39M]: Error inserting login log: Invalid object name 'UserLoginLogs'.
+2024-11-27 15:38:55 [[32MINFO[39M]: Email sent successfully
+2024-11-27 15:39:19 [[32MINFO[39M]: Registered user : pavithiran.nasa@gmail.com
+2024-11-27 15:39:19 [[31MERROR[39M]: Error in /register: updateUserEmailprofile is not a function
+2024-11-27 15:43:39 [[32MINFO[39M]: Email sent successfully
+2024-11-27 15:44:08 [[32MINFO[39M]: Registered user : pavithiran.nasa@gmail.com
+2024-11-27 15:44:09 [[31MERROR[39M]: Error in /register: updateUserEmailprofile is not a function
+2024-11-27 15:47:38 [[32MINFO[39M]: Email sent successfully
+2024-11-27 15:47:57 [[32MINFO[39M]: Registered user : pavithiran.nasa@gmail.com
+2024-11-28 16:01:59 [[31MERROR[39M]: SQL error: Connection not yet open.
+2024-11-28 16:01:59 [[31MERROR[39M]: Error in /userdetail: Connection not yet open.
+2024-11-28 22:13:40 [[31MERROR[39M]: SQL error: Connection not yet open.
+2024-11-28 22:13:40 [[31MERROR[39M]: Error in /userdetail: Connection not yet open.
+2024-11-28 22:24:07 [[31MERROR[39M]: SQL error: Connection not yet open.
+2024-11-28 22:24:07 [[31MERROR[39M]: Error in /userdetail: Connection not yet open.
+2024-11-29 09:24:10 [[31MERROR[39M]: SQL error: Connection is closed.
+2024-11-29 09:24:10 [[31MERROR[39M]: Error in /userdetail: Connection is closed.
+2024-11-29 09:33:40 [[31MERROR[39M]: SQL error: Connection not yet open.
+2024-11-29 09:33:40 [[31MERROR[39M]: Error in /userdetail: Connection not yet open.
+2024-11-29 23:47:16 [[32MINFO[39M]: Email sent successfully
+2024-11-29 23:48:55 [[32MINFO[39M]: Registered user : pavithiran.ganeshkumar@gmail.com
